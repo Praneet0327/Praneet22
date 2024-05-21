@@ -1,4 +1,4 @@
-# Praneet22
+# Bio
 # 💫 About Me:
 ⚡️Hey there! I'm Praneet, a final-year undergraduate student based in Delhi, specializing in Artificial Intelligence and Machine Learning.<br>
 
